@@ -1,0 +1,22 @@
+.carousel-bg{
+    background-color: #fceae8;
+}
+.categories-bg-watch{
+    background-color: #ffa500;
+}
+.categories-bg-shoes{
+    background-color: #da70d6;
+}
+.categories-bg-bag{
+    background-color: #00f;
+}
+.all-categories img{
+    width: 100px;
+}
+button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+
+
+
